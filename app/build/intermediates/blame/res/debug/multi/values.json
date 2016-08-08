@@ -1,0 +1,124 @@
+[
+    {
+        "outputFile": "I:\\demoHListView_jb511\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 39,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 39,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 50,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 52,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 50,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 60,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 57,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "I:\\demoHListView_jb511\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 435
+                    }
+                }
+            }
+        ]
+    }
+]
